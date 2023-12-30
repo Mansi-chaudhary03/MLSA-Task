@@ -36,7 +36,7 @@ const skillsList = [
   "Time Management",
   "Leadership Potential",
   "Critical Thinking",
-  "Collaboration",
+  "Collaboration.",
 ];
 
 /**
