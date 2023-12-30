@@ -32,11 +32,11 @@ const description =
  */
 const skillsList = [
   "Problem-solving",
-  "Communication Skills",
-  "Time Management",
+  "Communication-Skills",
+  "Time-Management",
   "Leadership Potential",
   "Critical Thinking",
-  "Collaboration.",
+  "Collaboration",
 ];
 
 /**
