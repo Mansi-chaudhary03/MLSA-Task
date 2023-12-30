@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/image3.gif";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Amazon clone",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
-  },
-  {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An Amazon clone developed solely on the frontend emulates the visual presentation of the platform without incorporating the backend operations. This project serves as an opportunity for refining design proficiency, allowing practice in recreating the site's appearance and user interface",
+    url: "https://mansi-chaudhary03.github.io/amazon_clone_page/",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A resume is a snapshot of my professional journey, highlighting my skills, work experience, and education. It's a key document in job applications, presenting my qualifications and achievements succinctly to potential employers.",
+    url: "https://drive.google.com/file/d/1FpQ4q4yLkFjpLWEPwI7mZDb58xGlicUC/view?usp=drive_link",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "My LinkedIn Site",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "LinkedIn: Where I connect, showcase my journey, and unlock career doors",
+    url: "https://www.linkedin.com/in/mansi-chaudhary-0b900025b/",
+  },
+  {
+    title: "GitHub",
+    description:
+      "GitHub: My space to collaborate, code, and showcase my tech journey, fostering innovation and learning in the coding community.",
+    url: "https://github.com/Mansi-chaudhary03",
   },
 ];
 
