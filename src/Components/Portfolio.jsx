@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/image3.gif";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "gif of desktop and laptop";
 
 /**
  * Project list

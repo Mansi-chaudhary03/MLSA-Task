@@ -31,7 +31,7 @@ const description =
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Problem-solving",
+  "Problem solving",
   "Communication Skills",
   "Time Management",
   "Leadership Potential",
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "As a third-year engineering student, I'm deeply passionate about technology's potential. Proficient in technical skills, I'm eager to translate classroom learning into tangible engineering solutions. I'm committed to contributing innovative ideas and problem-solving expertise to meaningful projects.";
+  " As a third-year engineering student, I'm deeply passionate about technology's potential. Proficient in technical skills, I'm eager to translate classroom learning into tangible engineering solutions. I'm committed to contributing innovative ideas and problem-solving expertise to meaningful projects.";
 
 const About = () => {
   return (
