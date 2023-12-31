@@ -16,7 +16,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a image you
  * freely use on your site.
  */
-import image from "../images/image2.jpg";
+import image from "../images/images2.jpg";
 
 const imageAltText = "technology blue abstract background";
 
